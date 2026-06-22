@@ -1,0 +1,29 @@
+Tanggal,Kode Transaksi,Nama Barang,Kategori,Jumlah,Harga Satuan,Metode Bayar
+01/06/2026,TRX001,Fotocopy Hitam Putih,Fotocopy,150,200,Tunai
+01/06/2026,TRX002,Kertas A4 70gr,ATK,5,45000,Tunai
+01/06/2026,TRX003,Spidol Snowman Boardmarker,ATK,10,15000,QRIS
+02/06/2026,TRX004,Fotocopy Warna,Fotocopy,80,1000,Transfer
+02/06/2026,TRX005,Buku Tulis 38 lembar,ATK,20,8000,Tunai
+02/06/2026,TRX006,Amplop Coklat 110,ATK,25,3000,Tunai
+03/06/2026,TRX007,Fotocopy Hitam Putih,Fotocopy,300,200,QRIS
+03/06/2026,TRX008,Jilid Softcover,Jilid,15,5000,Tunai
+03/06/2026,TRX009,Map Plastik Snellman,ATK,30,4500,Transfer
+04/06/2026,TRX010,Fotocopy Warna,Fotocopy,45,1000,Tunai
+04/06/2026,TRX011,Kertas HVS A4 80gr,ATK,3,55000,Tunai
+04/06/2026,TRX012,Stabilo Boss Pastel,ATK,12,12000,QRIS
+05/06/2026,TRX013,Fotocopy Hitam Putih,Fotocopy,220,200,Transfer
+05/06/2026,TRX014,Jilid Hardcover,Jilid,8,12000,Tunai
+05/06/2026,TRX015,Isi Ulang Tinta Epson 003,ATK,4,85000,QRIS
+06/06/2026,TRX016,Fotocopy Warna,Fotocopy,60,1000,Tunai
+06/06/2026,TRX017,Pen Draw 0.5,ATK,15,5000,Tunai
+06/06/2026,TRX018,Kertas Bukti 1 ply,ATK,2,75000,Transfer
+07/06/2026,TRX019,Fotocopy Hitam Putih,Fotocopy,400,180,Tunai
+07/06/2026,TRX020,Lakban Bening 48mm,ATK,7,12000,QRIS
+08/06/2026,TRX021,Fotocopy Warna,Fotocopy,90,1000,Transfer
+08/06/2026,TRX022,Rapid Klip 15,ATK,20,3500,Tunai
+08/06/2026,TRX023,Jilid Softcover,Jilid,25,5000,Tunai
+09/06/2026,TRX024,Fotocopy Hitam Putih,Fotocopy,180,200,QRIS
+09/06/2026,TRX025,Buku Agenda Polio,ATK,5,28000,Tunai
+10/06/2026,TRX026,Fotocopy Warna,Fotocopy,55,1000,Tunai
+10/06/2026,TRX027,Kertas A4 70gr,ATK,8,44000,Transfer
+10/06/2026,TRX028,Spidol Permanent Snowman,ATK,10,12000,QRIS
